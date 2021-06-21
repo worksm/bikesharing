@@ -28,3 +28,8 @@ Male subsribers are commuting to work on Citibikes, their utilizaiton is heavies
 
 # Summary:
 In summary, Citibike is extremely popular and successful in NYC amongst male subscribers during the weekday commute, followed by female commuters at the same time of day. While this analysis has provided a comprehensive view of hourly utilization broken down by gender, it's unclear how this indepth analysis compares to the Des Moines population. While Citibike works well in NYC, further analysis of Des Moines residents and city center would be recommended before Des Moines investors jump feet first with Citibike. 
+
+
+
+Tableau Public 
+[Link to Tableau](https://public.tableau.com/app/profile/rachel.works/viz/Bikesharing_16239841290040/TripsbyGenderWeekdayperHour)
