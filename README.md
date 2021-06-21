@@ -32,4 +32,4 @@ In summary, Citibike is extremely popular and successful in NYC amongst male sub
 
 
 Tableau Public 
-[Link to Tableau](https://public.tableau.com/profile/rachel.works#!/)
+[](https://public.tableau.com/profile/rachel.works#!/)
