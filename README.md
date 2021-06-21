@@ -5,6 +5,7 @@ Upon analysis of the NYC bikesharing data we're able to determine bike utilizati
 
 ## Results:
 
+![]
 
 
 Summary:
